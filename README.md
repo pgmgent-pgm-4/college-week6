@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# College week 6 - React Testing
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
